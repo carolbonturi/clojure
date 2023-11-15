@@ -1,4 +1,4 @@
-(ns loja.aula4
+(ns collections.aula4
   (:require [loja.db :as l.db]
             [loja.logic :as l.logic]))
 

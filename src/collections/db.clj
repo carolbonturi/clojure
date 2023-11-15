@@ -1,4 +1,4 @@
-(ns loja.db)
+(ns collections.db)
 
 (def pedido1 {:usuario 15
               :itens   {:mochila  {:id :mochila, :quantidade 2, :preco-unitario 80}
