@@ -1,4 +1,7 @@
-(ns loja.logic)
+(ns collections.logic)
+
+(def debug-space
+  " ------------------- ❌ ------------------- ")
 
 (defn total-do-item
   [[_ detalhes]]
